@@ -1,10 +1,10 @@
 ## About Me  \\(°. °|
 
-- 👋 Hello everyone ( ° w°). I'm @michelTonegrave and I am an enthusiast programmer with a particular interest in graphics, functional programming, and mathematics.
-- 👀 I’m interested in graphics programming, functional programming, mathematics and physics.
-- 🌱 I’m currently learning Clojure, Rust, C++, OpenGL and Vulkan ( ° ^°).
+- 👋 Hello everyone ( ° w°). I'm **@michelTonegrave** and I am an enthusiast programmer with a particular interest in graphics, functional programming, and mathematics.
+- 👀 I’m interested in **graphics programming, functional programming, mathematics and physics**.
+- 🌱 I’m currently learning **Clojure, Rust, C++, OpenGL and Vulkan** ( ° ^°).
 - 💞️ I’m looking to collaborate on graphical projects, games or web applications.
-- 📫 How to reach me: you can't for now - I'm actually working on it ~upsy (^- ^' ). 
+- 📫 How to reach me: you can't for now - I'm actually working on it _~upsy_ (^- ^' ). 
 
 
 <!---
