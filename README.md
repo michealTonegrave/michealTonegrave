@@ -1,4 +1,4 @@
-## 💫 About Me  (°v ° ) 💫
+## 💫 About Me  (°u ° ) 💫
 
 - 👋 Hello everyone ( ° w°). I'm **@michelTonegrave** and I am an enthusiast programmer with a particular interest in graphics, functional programming, and mathematics.
 - 🌱 I’m currently learning **Clojure, Rust, C++, OpenGL and Vulkan** ( ° ^°).
